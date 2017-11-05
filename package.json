@@ -1,0 +1,22 @@
+{
+  "name": "realkose",
+  "version": "1.0.0",
+  "description": "realkose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realkose/realkose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realkose/realkose/issues"
+  },
+  "homepage": "https://github.com/realkose/realkose#readme",
+  "dependencies": {
+    "yarn": "^1.2.1"
+  }
+}
